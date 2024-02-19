@@ -13,3 +13,12 @@
  *= require_tree .
  *= require_self
  */
+h1 {
+  color:antiquewhite;
+}
+p {
+  color:antiquewhite;
+}
+.container {
+  background-color: #0006b1;
+}
